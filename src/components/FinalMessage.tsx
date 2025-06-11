@@ -10,7 +10,7 @@ export const FinalMessage: React.FC = () => {
   const postcards = [
     {
       color: "red",
-      message: "krishu i feel like  we are connected in the most beautiful way, being with you just feels like home,  like a warm hug , yo're my safe place, my joy and my little piece of magic.",
+      message: "krishu i feel like  we are connected in the most beautiful way, being with you just feels like home,  like a warm hug , yo're my safe place, my joy and my little piece of magic🎀💌",
       symbol: "🃏"
     },
     {
@@ -30,7 +30,7 @@ export const FinalMessage: React.FC = () => {
     },
     {
       color: "purple",
-      message: "I look to you see the truth....\nYou live your life, you go in shadows...",
+      message: "Oh yeah, your skin and bone, turn into something beautiful...\nYou know, you know i love you sooo...",
       symbol: "🎯"
     }
   ];
@@ -186,19 +186,19 @@ export const FinalMessage: React.FC = () => {
           </motion.div>
           
           <h1 className="text-4xl font-bold text-center text-red-600 mb-6">
-            💌 HAPPY BIRTHDAY KRISHUUUU!! 💌
+            💌 HAPPIEST BIRTHDAY KRISHUUUU!! 💌
           </h1>
-          <p className="text-lg text-gray-800 leading-relaxed font-semibold text-center">HEYOOOO KRISHUUUUU HAHAA 😭🎀💗 </p>
-          <p className="text-lg text-gray-800 leading-relaxed font-semibold text-center">HAPPIEST BIRTHDAY TO MY cutest, most gorgeous, craziest, kindest, loving and most beautiful soul in this whole world — MY DUMB LOVING JHAGDELI PARTNER (who scolds me like a mother does, strict but FULL OF LOVE ) I LOVE YOU SOOOOO MUCHHHH 🫶🏻🎀💗</p>
-          <p className="text-lg text-gray-800 leading-relaxed font-semibold text-center">Bhaiii, I feel so blessed to have you in my life krishuu 🎀 I genuinely can’t be more grateful. Youre not just a person to me — Youre my soulmate, my best friend, my peace, my family, my love, my therapist when life gets heavy, my safe place, my laughter, my light in the dark... You’re literally EVERYTHING — krishnai youre everything i ever needed.a complete package(dabba). With you in my life, I don’t need anything else. You're not just a part of my life... You are my LIFE. YOU ARE MY HOME FOREVER. 🎀💗</p>
+          <p className="text-lg text-gray-800 leading-relaxed font-semibold text-center">HEYOOOO KRISHUUUUU MY LOVEEE HAHAA  </p>
+          <p className="text-lg text-gray-800 leading-relaxed font-semibold text-center">HAPPIEST BIRTHDAY TO MY PRETTIEST, MOST GORGEOUS, CRAZIEST, KINDEST, LOVING AND MOST BEAUTIFUL SOUL IN THIS WHOLE WORLD — MY DUMB LOVING JHAGDALU PARTNER (who scolds me like a mother does, strict but FULL OF LOVE ) I LOVE YOU SOOOOO MUCHHHH 🫶🏻🎀💗</p>
+          <p className="text-lg text-gray-800 leading-relaxed font-semibold text-center">Bhaiii, I feel so blessed to have you in my life krishuu 🎀 I genuinely can’t be more grateful. Youre not just a person to me — Youre my soulmate, my best friend, my peace, my family, my love, my therapist when life gets heavy, my safe place, my laughter, my light in the dark... You’re literally EVERYTHING — krishnai youre everything i ever needed.a complete package(dabba). With you in my life, I don’t need anything else. You're not just a part of my life... You are my LIFE. YOU ARE MY HOME FOREVER. 🎀💌</p>
           
           <p className="text-lg text-gray-800 leading-relaxed font-semibold text-center">Even on my worst days, just a few moments talking to you or being near you melts all the heaviness awayy asf lmao its like your presence quietly stitches me back together, I forgot i was ever hurting. lmao THAATS YOUR MAGIC JANU and yes I actually forget I was ever upset. That’s your aura, janu APKA SWAGhaha. (your fav line) If we were two sunflowers I would have faced you instead of sun!! and krishu it means because your light is all i'd ever need. A day without you feels incomplete, it feels hollow — Like someone's stolen the very  soul from my body. you just complete my days... you complete me krishnai</p>
 
           <p className="text-lg text-gray-800 leading-relaxed font-semibold text-center">I used to hate myself so much before I met you, iwas drowing in my own thoughts sometimes i still do. But then YOU happened my love, you saw the in me when i couldn't see it myself. You became my reason to become a better person, to believe in love, in life, in me, in us. Everything I do — my passion, my wins, my growth, my every single shits — It’s all dedicated YOU. Bhai DAMN, I literally FOUND A REASON TO LIVE, you gave me reason to live, to dream. And i swear i'll neveer stop being grateful for you.🎀  </p>
           <p className="text-lg text-gray-800 leading-relaxed font-semibold text-center">I don’t care about the world — as long as I have you krishuu. JUST BE HAPPY bhai.THATS ALL I EVER WANT. It breaks me to see you sad or crying. You’ll always have me, no matter what, no matter when. And if you’re ever feeling low, I’ll try my absolute best to lift you up like roman reigns lifts everyone up haha . krishu Please don’t suffer alone dont suffer in silence— it breaks me into pieces. I know everyone has problems, and maybe I can’t fix everything… But you don’t deserve to go through it alone, WE WILL SUFFER AND FIGHT TOGETHER KRISHU. You deserve every bit of happiness in this whole damn world.  </p>
           <p className="text-lg text-gray-800 leading-relaxed font-semibold text-center"> Bhai, you are fucking important to me — more than you even realize!  Your presence fills my life with immeasurable joyyyy, and your love wraps my heart in a warmth that I can’t explain, "to your joy, i tether". i just want you to know that you are cherished, valued, and loved beyond measure. Every moment spent with you is a fucking treasuree JACKPOT HAHA, and I am endlessly grateful for having you in my life. </p>
-          <p className="text-lg text-gray-800 leading-relaxed font-semibold text-center">I want to experience every adventure of life with you by my side, because you are my home, and without you, I feel homesick (like a dukkar). And krishu no place can give me the same level of comfort and warmth that you do. what could I possibly want, if I have you with me all the time? IWANNABE WITH YOU TILLREST OF MY LIFE🎀 Bhai, you made me feel loved, acknowledged, and showered me with the affection I’ve always longed for. I can’t even begin to express how thankful I am for you, YOU COMPLETE ME. 😭🎀Just thinking about it brings tears to my eyes. I would do anything and everything to make you happy — because you mean the world to me KRISHU. 💖 </p>
-          <p className="text-lg text-gray-800 leading-relaxed font-semibold text-center">wishing you the HAPPIEST BIRTHDAY Filled with all the joys and happiness in the world! 💖🎉  </p>
+          <p className="text-lg text-gray-800 leading-relaxed font-semibold text-center">I want to experience every adventure of life with you by my side, because you are my home, and without you, I feel homesick (like a dukkar). And krishu no place can give me the same level of comfort and warmth that you do. what could I possibly want, if I have you with me all the time? IWANNABE WITH YOU TILLREST OF MY LIFE🎀 Bhai, you made me feel loved, acknowledged, and showered me with the affection I’ve always longed for. I can’t even begin to express how thankful I am for you, YOU COMPLETE ME. Just thinking about it brings tears to my eyes. I would do anything and everything to make you happy — because you mean the world to me KRISHU...</p>
+          <p className="text-lg text-gray-800 leading-relaxed font-semibold text-center">wishing you the HAPPIEST BIRTHDAY Filled with all the joys and happiness in the world!💌🎀  </p>
               
           
           
@@ -214,7 +214,7 @@ export const FinalMessage: React.FC = () => {
                 repeatType: "reverse"
               }}
             >
-             I LOVE YOU DHEEEEEEEERRR SAAARAAA!(more than you ofc)💗
+             I LOVEEEEE YOUUUUUU DHEEEEEEEERRR SAAARAAA!(more than you ofc lmao)💌
             </motion.div>
           </div>
         </motion.div>
