@@ -207,8 +207,8 @@ function SongCard({ onSongChoice, audioRef }) {
           </motion.div>
         </div>
         <div className="w-full text-center mb-4">
-          <h3 className="text-2xl font-bold text-[#FF6F69]">💗🫶🏻I LOVE YOU SO DHER SARAA🫶🏻💗</h3>
-          <p className="text-sm text-gray-700">Ehehehe GangSigns!!!</p>
+          <h3 className="text-2xl font-bold text-[#FF6F69]">💌I LOVEEE YOUU SOMUCHHH MYY HOMEEE💌</h3>
+          <p className="text-sm text-gray-700">To Your Joy, I Tether..</p>
         </div>
         <div className="flex items-center justify-center space-x-6 mb-4">
           <motion.button
@@ -269,7 +269,7 @@ function App() {
 
   // Simple array of messages to display in stage 0
   const messages = [
-    "Heyooo DUMB KRISHUUU!! Happy Birthdayyy...😭🙏🏿🫶🏻",
+    "Heyooo DUMB KRISHUUU!! Happiesttt Birthdayyy...🎀",
     "Lets Celebrate!!!🥳",
   ];
 
