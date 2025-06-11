@@ -269,7 +269,7 @@ function App() {
 
   // Simple array of messages to display in stage 0
   const messages = [
-    "Heyooo DUMB KRISHUUU!! Happiesttt Birthdayyy...🎀",
+    "Heyooo DUMB KRISHUUU!! HAPPIESTTT BIRTHDAYYY MY PRETTIEST GIRL...🎀",
     "Lets Celebrate!!!🥳",
   ];
 
