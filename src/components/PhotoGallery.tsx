@@ -259,14 +259,14 @@ export const PhotoGallery: React.FC<PhotoGalleryProps> = ({ onComplete, stopBgMu
                       <h4 className="text-3xl font-bold text-pink-600 mb-3">
                         A Special Note
                       </h4>
-                      <p className="text-gray-700 text-lg text-center px-2">🎀</p>
+                      <p className="text-gray-700 text-lg text-center px-2">💌</p>
                         <p className="text-gray-700 text-lg text-center px-2">And I'm Kissing You,Lying in my Room,</p>
                         <p className="text-gray-700 text-lg text-center px-2">Holding You Until You Fall Asleep</p>
                         <p className="text-gray-700 text-lg text-center px-2">And It's Just As Good, As I Knew It Would Be,</p>
                         <p className="text-gray-700 text-lg text-center px-2">Stay With Me....,</p>
                         <p className="text-gray-700 text-lg text-center px-2">I Dont Want You To Leave...!</p>
-                        <p className="text-gray-700 text-lg text-center px-2">I'M SOO IN LOVEE WITH YOUUU KRISHI!!...</p>
-                        <p className="text-gray-700 text-lg text-center px-2">🎀</p>
+                        <p className="text-gray-700 text-lg text-center px-2">I'M SOO IN LOVEE WITH YOUUU KRISHNAII!!...</p>
+                        <p className="text-gray-700 text-lg text-center px-2">💌</p>
                       <p className="text-sm text-gray-500 mt-2">
                         (Click again to flip back)
                       </p>
@@ -315,7 +315,7 @@ export const PhotoGallery: React.FC<PhotoGalleryProps> = ({ onComplete, stopBgMu
                   whileTap={{ scale: 0.95 }}
                   onClick={onComplete}
                 >
-                  I stitched some feelings into lines, just for you dummy🎀!
+                  I stitched some feelings into lines, just for you dummy💌!
                 </motion.button>
               </div>
             </div>
